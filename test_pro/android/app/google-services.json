@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "833083538921",
+    "project_id": "test-pro-goldsgym",
+    "storage_bucket": "test-pro-goldsgym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833083538921:android:5f72ac8f51a7bedb041f78",
+        "android_client_info": {
+          "package_name": "com.example.test_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833083538921-no5gbobt7g3td9d1k5ohkauro6ii43ar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_pro",
+            "certificate_hash": "6c09e1871f8c9df4db4d2fc18537a6d364198c84"
+          }
+        },
+        {
+          "client_id": "833083538921-vf388ra63c4t5kahonco72lrd2h2bdke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6SXtw0ykb07z-h93x-VtxCZiCsHCZeyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833083538921-vf388ra63c4t5kahonco72lrd2h2bdke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
